@@ -1,0 +1,28 @@
+# 环境配置文件（包含敏感信息）
+.env
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 生成的图片文件
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+generated_image*
+
+# 临时文件
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+*.swo
